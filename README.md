@@ -1,2 +1,3 @@
 # Understand
 THIS IS MY FIRST GIT REPOSITORY
+Author HARSHT RAI
