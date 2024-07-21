@@ -1,4 +1,4 @@
 # Understand
 THIS IS MY FIRST GIT REPOSITORY
 <br>
-Author HARSHT 
+Author HARSHT rai
